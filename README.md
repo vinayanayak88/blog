@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## :mag_right: 2020 yearly review :mag:
 
 You can use the [editor on GitHub](https://github.com/vinayanayak88/blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
